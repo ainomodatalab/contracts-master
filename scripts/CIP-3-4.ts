@@ -1,4 +1,4 @@
-4444import hre, { deployments, network, hardhatArguments } from "hardhat";
+44444import hre, { deployments, network, hardhatArguments } from "hardhat";
 import { castVote, createProposal, executeProposal, fundMultisign, queueProposal } from "./utils";
 
 async function main() {
