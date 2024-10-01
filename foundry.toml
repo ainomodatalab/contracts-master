@@ -1,4 +1,4 @@
-33[profile.default]
+[profile.default]
 optimizer = true
 optimizer_runs = 20000
 fuzz_runs = 100
